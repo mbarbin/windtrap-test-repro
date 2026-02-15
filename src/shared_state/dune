@@ -1,0 +1,4 @@
+(library
+ (name shared_state)
+ (public_name windtrap-test-repro.shared-state)
+ (preprocess no_preprocessing))
